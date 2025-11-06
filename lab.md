@@ -30,6 +30,7 @@
 
 ## 3. 🎨 Дизайн (Прототип)
 **Файли:**  
+https://www.figma.com/design/8sIPhxZP17H9GLksIx4uBF/Untitled?node-id=1-3&t=H1bwxpQ5eds9lqnd-1
 `prototype-main.png` — головний екран  
 <img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/5452258c-1dd7-4f07-90c7-406c959f70e9" />
 
